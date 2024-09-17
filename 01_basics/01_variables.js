@@ -15,7 +15,7 @@ because of issue in block scope and functional scope
 
 accountEmail = "hc@hc.com"
 accountPassword = "212221"
-accountCity = "bengaluru"
+accountCity = "Delhi"
 
 // First Method for printing
 // console.log(accountId);
